@@ -1,0 +1,9 @@
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\BusinessLayer\obj\Debug\BusinessLayer.pdb

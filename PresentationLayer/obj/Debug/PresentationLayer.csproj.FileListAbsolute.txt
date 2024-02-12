@@ -1,0 +1,16 @@
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.PC_Konfigurator.resources
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.Prijava.resources
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lazon\OneDrive\Desktop\PC Konfigurator\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
